@@ -1,0 +1,464 @@
+
+@media only screen and (max-width: 1200px) {
+  #go{
+    width: 250px;
+    margin: right 30px;
+  }
+  input{
+    width: 400px;
+  }
+  .get{
+    width: 750px;
+  }
+  #third{
+    width:450px ; 
+  }
+  .review{
+    padding-left: 25px;
+  }
+  #quote{
+    padding-left: 35px;
+  }
+  
+}
+
+
+@media only screen and (max-width: 1023px) {
+  body{
+    font-size: 12px;
+    width: 100%;
+  }
+  /**.third{
+    flex-direction: column;
+  }
+  #third{
+    width: 600px;
+    margin-bottom: 50px;
+  }
+  #intro{
+    width: 750px;
+  }**/
+
+}
+
+
+
+@media only screen and (max-width: 880px) {
+  body{ 
+    font-size: 14px;
+    font-weight: 400 , 700;
+    width: 100%;
+  }
+  .navbar
+ {
+  display: flex;
+  align-items: flex-end;
+  padding: 10px;
+  padding-left: 25px;
+  padding-right: 10px;
+  padding-top: 40px;
+  padding-bottom: 50px;
+  flex-wrap: wrap;
+ }
+ nav ul li
+ {
+  margin-right: 15px;
+ }
+
+ nav ul li a
+ {
+   font-size: 14px;
+ }
+ nav ul li button
+ {
+  font-size: 14px;
+ }
+ .logo{
+  width: 100px;
+  }
+ #intro{
+  width:350px ;
+ }
+ .text1 {
+  font-size: 14px;
+  padding-bottom: 8px;
+ }
+ #started{
+  font-size: 14px;
+  padding: 12px 55px;
+  border: 15px aqua;
+  border-radius: 25px;
+ }
+ .image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 12px;
+  }
+  .subheading{
+    font-size: 15px;
+    padding-bottom: 8px;
+ }
+   .number{
+     display: flex;
+     flex-basis: 60%;
+     flex-direction: column;
+     justify-content: space-around;
+     padding-bottom: 8px;
+     padding-top: 15px;
+     flex-wrap: wrap;
+     align-content: center;
+     margin-top: 23px;
+   }
+   .count{
+     display: flex;
+     flex-basis: 60%;
+     flex-direction: column;
+     justify-content: space-around; 
+     padding-top: 18px;
+     flex-wrap: wrap;
+     align-content: center;
+     padding-bottom: 38px;
+   }
+   #third{
+    width:350px ; 
+    padding-top: 33px;
+  }
+  .third{
+    display: flex;
+    flex-basis: 80%;
+    flex-direction: column;
+    justify-content: space-around; 
+    padding-top: 43px;
+    align-items: center;
+  }
+  .none{
+    padding: 23px;
+  }
+  #none{
+    font-size: 15px;
+    padding-bottom: 8px;
+  }
+  .review{
+    display: flex;
+    flex-basis: 60%;
+    flex-direction: column;
+    justify-content: space-around; 
+    flex-wrap: wrap;
+    padding-bottom: 45px;
+    align-content: center;
+  }
+  #quote{
+    padding-top: 43px;
+    padding-left: 45px;
+    width: 70px;
+  }
+  .huddle.muddle.ruddle{
+    padding-top: 15px;
+    padding-left: 13px;
+    padding-bottom: 13px;
+    padding-right: 13px;
+    margin-bottom: 13px;
+    width: 310px ;
+  }
+  .satish{
+    padding-top: 10px;
+    align-items: center;
+  }
+  #satish{
+    padding-left: 10px;
+  }
+  .bruce{
+    padding-top: 10px;
+    align-items: center;
+  }
+  #bruce{
+    padding-left: 10px;
+  }
+  .iva{
+    padding-top: 10px;
+    align-items: center;
+  }
+  #iva{
+    padding-left: 10px;
+  }
+  .photo{
+    border: 5px white;
+    border-radius: 50px;
+    width: 60px;
+    height: 60px;
+  }
+  #information{
+    flex-direction: column;
+    padding-bottom: 45px;
+  }
+  #logo{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    padding: 40px 18px 18px 15px;
+    width: 130px;
+  }
+  #locat{
+    height: 13px;
+    padding-right: 13px;
+  }
+  #inform{
+    padding-bottom: 10px;
+    margin-left: 18px;
+  }
+  .phone{
+    height:13px ;
+    padding-right: 13px;
+  }
+  .contat{
+    padding-bottom: 13px;
+    margin-left: 18px;
+  }
+  .locate{
+    padding-bottom: 13px;
+    margin-left: 18px;
+  }
+  #go{
+    font-size: 15px;
+    padding: 8px 13px;
+    border: 15px aqua;
+    border-radius: 25px;
+    margin-left: 13px;
+    width: 300px;
+    align-self: center;
+  }
+  input{
+    font-size: 15px;
+    width: 300px;
+    padding: 8px 13px;
+    border: 12px white;
+    border-radius: 25px;
+    margin-left: 13px;
+    margin-bottom: 8px;
+    align-self: center;
+  }
+  .jhay{
+    padding-top: 23px;
+    flex-direction: column;
+    padding-bottom: 13px;
+    align-content: center;
+  }
+  .get{
+    text-align: center;
+    background-color: hsl(217, 28%, 15%);
+    width: 85%;
+  }
+  #round{
+    padding: 10px;
+  }
+}
+
+
+@media only screen and (max-width: 480px) {
+ body{ 
+  font-size: 12px;
+  font-weight: 400 , 700;
+  width: 100%;
+ }
+ .navbar
+ {
+  display: flex;
+  align-items: flex-end;
+  padding: 7px;
+  padding-left: 20px;
+  padding-right: 5px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  flex-wrap: wrap;
+ }
+ nav ul li
+ {
+  margin-right: 10px;
+ }
+
+ nav ul li a
+ {
+   font-size: 12px;
+ }
+
+ /* Editing Login button*/
+ nav ul li button
+ {
+  font-size: 12px;
+ }
+ .logo{
+  width: 50px;
+ }
+ #intro{
+  width:250px ;
+ }
+ .text1 {
+  font-size: 12px;
+  padding-bottom: 5px;
+ }
+ #started{
+  font-size: 14px;
+  padding: 10px 50px;
+  border: 15px aqua;
+  border-radius: 25px;
+ }
+ .image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+  }
+ .subheading{
+   font-size: 13px;
+   padding-bottom: 5px;
+  }
+  .number{
+    display: flex;
+    flex-basis: 60%;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-bottom: 5px;
+    padding-top: 12px;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-top: 20px;
+  }
+  .count{
+    display: flex;
+    flex-basis: 60%;
+    flex-direction: column;
+    justify-content: space-around; 
+    padding-top: 15px;
+    flex-wrap: wrap;
+    align-content: center;
+    padding-bottom: 35px;
+  }
+  #third{
+    width:250px ; 
+    padding-top: 30px;
+  }
+  .third{
+    display: flex;
+    flex-basis: 80%;
+    flex-direction: column;
+    justify-content: space-around; 
+    padding-top: 40px;
+    align-items: center;
+  }
+  .none{
+    padding: 20px;
+  }
+  #none{
+    font-size: 14px;
+    padding-bottom: 5px;
+  }
+  .review{
+    display: flex;
+    flex-basis: 60%;
+    flex-direction: column;
+    justify-content: space-around; 
+    flex-wrap: wrap;
+    padding-bottom: 40px;
+    align-content: center;
+  }
+  #quote{
+    padding-top: 40px;
+    padding-left: 20px;
+    width: 50px;
+  }
+  .huddle.muddle.ruddle{
+    padding-top: 13px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    width: 290px ;
+  }
+  .satish{
+    padding-top: 8px;
+    align-items: center;
+  }
+  #satish{
+    padding-left: 8px;
+  }
+  .bruce{
+    padding-top: 8px;
+    align-items: center;
+  }
+  #bruce{
+    padding-left: 8px;
+  }
+  .iva{
+    padding-top: 8px;
+    align-items: center;
+  }
+  #iva{
+    padding-left: 8px;
+  }
+  .photo{
+    border: 5px white;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+  }
+  #information{
+    flex-direction: column;
+    padding-bottom: 40px;
+  }
+  #logo{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 40px 18px 18px 15px;
+    width: 100px;
+  }
+  #locat{
+    height: 10px;
+    padding-right: 10px;
+  }
+  #inform{
+    padding-bottom: 8px;
+    margin-left: 15px;
+  }
+  .phone{
+    height:10px ;
+    padding-right: 10px;
+  }
+  .contat{
+    padding-bottom: 10px;
+    margin-left: 15px;
+  }
+  .locate{
+    padding-bottom: 10px;
+    margin-left: 15px;
+  }
+  #go{
+    font-size: 14px;
+    padding: 5px 10px;
+    border: 12px aqua;
+    border-radius: 25px;
+    margin-left: 10px;
+    width: 200px;
+    align-self: center;
+  }
+  input{
+    font-size: 14px;
+    width: 200px;
+    padding: 5px 10px;
+    border: 12px white;
+    border-radius: 25px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    align-self: center;
+  }
+  .jhay{
+    padding-top: 20px;
+    flex-direction: column;
+    padding-bottom: 10px;
+    align-content: center;
+  }
+  .get{
+    text-align: center;
+    background-color: hsl(217, 28%, 15%);
+    width: 80%;
+  }
+}
